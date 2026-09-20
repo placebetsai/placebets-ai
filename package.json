@@ -1,0 +1,12 @@
+{
+  "name": "placebets-ai",
+  "version": "1.0.0",
+  "description": "AI Sports Betting Intelligence - Odds, Picks, Analysis",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve .",
+    "deploy": "npx wrangler pages deploy . --project-name=placebets-ai"
+  },
+  "author": "Israel Joffe",
+  "license": "MIT"
+}
