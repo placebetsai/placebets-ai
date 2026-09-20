@@ -246,3 +246,6 @@ body {
   .hero-cta, .hero-stats { justify-content: center; }
   .nav-links { display: none; }
 }
+
+html { scroll-behavior: smooth; }
+:focus-visible { outline: 2px solid var(--primary); outline-offset: 2px; }
